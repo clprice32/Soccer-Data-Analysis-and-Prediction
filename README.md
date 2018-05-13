@@ -1,8 +1,7 @@
 # Soccer-Data-Analysis-and-Prediction
 
 ## Overview
-Based on a online tutorial from Siraj Raval
-
+From an online tutorial from Siraj Raval <br>
 Build a predictive model that predicts the winner of English Premier League soccer matches based on data from previous match results
 
 ## Tools Used
@@ -15,5 +14,5 @@ Logistic Regression | Support Vector Machine (SVM) | XGBoost
 Predicting the Winning Soccer Team.ipynb (Jupyter Notebook)
 
 ## Additional Resources
-Recording of tutorial: https://youtu.be/6tQhoUuQrOw
+Recording of tutorial: https://youtu.be/6tQhoUuQrOw <br>
 The dataset for this project was retrieved from: http://football-data.co.uk/data.php
